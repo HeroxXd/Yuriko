@@ -23,7 +23,7 @@ file4 = "https://telegra.ph/file/956b7a50ec1f0a9802b8b.jpg"
 file5 = "https://telegra.ph/file/2fdff4fc6f3e015eb9a51.jpg"
 """ =======================YURIKO====================== """
 
-BUTTON = [[Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DeCodeSupport"), Button.url("ᴜᴘᴅᴀᴛᴇs", "https://t.me/DeeCodeBots")]]
+BUTTON = [[Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/herox_xd"), Button.url("ᴜᴘᴅᴀᴛᴇs", "https://t.me/herox_xd")]]
 
 
 START_TIME = datetime.utcnow()
