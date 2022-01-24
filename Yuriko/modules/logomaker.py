@@ -113,7 +113,7 @@ async def logo_gen(event):
         await tbot.send_file(
             event.chat_id,
             file=flnme,
-            caption="Logo by [TeamDeeCode](https://t.me/TeamDeeCode)",
+            caption="Logo by [Herox](https://t.me/Herox_xd)",
             force_document=False,
         )
         os.remove(flnme)
@@ -220,5 +220,4 @@ __help__ = """
 
 ✗  /edit - `<reply photo> to edit image.`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
 """
